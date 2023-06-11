@@ -93,6 +93,7 @@ const Projects = () => {
                 <div className="flex justify-between text-sm mt-3.5">
                   <a
                     target="_blank"
+                    rel="noreferrer"
                     href={project.live}
                     className="hover:underline underline-offset-2"
                   >
@@ -100,6 +101,7 @@ const Projects = () => {
                   </a>
                   <a
                     target="_blank"
+                    rel="noreferrer"
                     href={project.source}
                     className="hover:underline underline-offset-2"
                   >
