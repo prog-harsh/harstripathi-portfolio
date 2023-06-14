@@ -14,7 +14,7 @@ const About = () => {
           </div>
         </div>
 
-        <p className="max-sm:text-sm">
+        <p className="max-sm:text-sm text-justify tracking-tighter">
           Hello! I'm Harsh Tripathi, a computer science and engineering graduate
           with expertise in programming languages like Java, JavaScript, Python,
           and C. I have a strong foundation in software development, along with
