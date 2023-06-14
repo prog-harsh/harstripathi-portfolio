@@ -52,8 +52,7 @@ const Contact = () => {
         </div>
       </div>
       <a
-        href="/Harsh_Tripahti_FrontEnd_Resume.pdf"
-        download={true}
+        href="https://drive.google.com/file/d/1WCmX0TTCz5lCNLkxwvC_k2NGRXperwNl/view?usp=sharing"
         className="text-xl mt-10 bg-stone-100 shadow-xl dark:bg-trueGray-800 px-12 py-4 rounded-2xl text-trueGray-600 dark:text-stone-100 font-medium"
       >
         Download Resume
