@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import arrow from "../assets/top-arrow.svg";
 
 const ScrollButton = () => {
   const [visible, setVisible] = useState(false);
@@ -28,7 +27,6 @@ const ScrollButton = () => {
         visible ? "inline" : "hidden"
       }`}
     >
-      {/* <img src={arrow} alt="arrow" className='w-5 h-5 mx-auto'  /> */}
       <svg
         xmlns="http://www.w3.org/2000/svg"
         className="w-5 h-5 mx-auto"
