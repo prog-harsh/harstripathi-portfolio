@@ -45,7 +45,7 @@ const Navbar = ({ toggleTheme, theme }) => {
             </li>
           </ul>
         </div>
-        <a className="font-Rancho btn btn-ghost normal-case text-2xl" href="#">
+        <a className="animate-shake font-Rancho btn btn-ghost normal-case text-2xl" href="#">
           Harsh Tripathi
         </a>
       </div>
